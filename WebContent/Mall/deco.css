@@ -1,0 +1,10 @@
+body{background-color:ivory; text-align:center;margin-top:10px;margin-bottom:10px;margin-left:40px;margin-right:40px;}
+#banner{font-size:100px;text-align:center;color:ivory;margin-top:20px;background-color:olive;}
+
+#bar{ background-color:lightsalmon;}
+#bar ul{margin:0; padding:0; width:500px;}
+#bar ul li{display: inline-block; list-style-type:none; padding:0px 15px;}
+#bar ul li a{color:ivory; text-decoration : none;}
+#bar ul li a:hover{color:olivedrab;}
+a:link{text-decoration:none;}
+a:visited{text-decoration:none;}
